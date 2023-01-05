@@ -11,6 +11,8 @@
 <a href="https://www.mediafire.com/file/2fzmx0xevmhllxm/scoopy.rar/file">Download Scoopy - The Adult Site Detector v1.0.0</a>
 
 
+Note: works only for user who install mozilla firefox
+
 # Copyright & License
 
 Created By Suresh P | Copyright @ Scoopy - The Adult Site Detector
